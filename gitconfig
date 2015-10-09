@@ -1,0 +1,11 @@
+[user]
+	email = shifeng_liu01@163.com
+	name = LiuShifeng
+[gui]
+[gui]
+[core]
+	editor = gvim
+[github]
+	user = lsff
+[color]
+	ui = true
